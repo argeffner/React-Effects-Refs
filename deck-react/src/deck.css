@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(91, 169, 109);
+}
+.Deck {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .btn {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin: 0 13px;
+  }
+  
+  .btn:hover {
+    cursor: pointer;
+    background-color: rgb(86, 84, 84);
+  }
+  
+  .Card-Space {
+    margin-top: 140px;
+  }
